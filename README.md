@@ -1,5 +1,0 @@
-# sarah_resume
-
-test
-
-
